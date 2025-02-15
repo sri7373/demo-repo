@@ -7,3 +7,4 @@ Some description! (Learning how to properly use Github)
 Hello!
 
 This is a change.
+Just trying another thing
